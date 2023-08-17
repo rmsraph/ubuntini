@@ -1,3 +1,4 @@
+# [deprecated]
 # ubuntini
 Shells para algumas configurações automáticas e iniciais para ubuntu
 
